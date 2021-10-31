@@ -1,0 +1,42 @@
+body{
+padding:10px;
+margin:50px;
+text-align:center;
+}
+table{
+border:solid black;
+text-align:center;
+margin:10px 10px 10px 10px;
+padding: 0 0 0 0;
+}
+td{
+background-color:snow;
+border:0;
+height:10px;
+width: 220px;
+}
+th{
+background-color:black;
+border: 0;
+height:110px;
+width: 110px;
+}
+.one{
+border:outset black ;
+border-radius:5px 5px;
+box-shadow:20px 20px 20px black;
+}
+.h2
+{
+	
+	background-color: #f5f5f5;
+}
+.two{
+border:solid black;
+box-shadow:inset 20px 20px 20px black, 20px 20px rgba(0,0,0,0.5);
+transform: rotate(-30deg) translate(-75px);
+color:teal;
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+border-radius:10px 20px;
+background-color:rgba(200,200,200,0.5);
+}
